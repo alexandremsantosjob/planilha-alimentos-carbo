@@ -1,0 +1,39 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th, td {
+    border: 2px solid #444;
+    padding: 8px;
+    text-align: center;
+       
+  }
+  th {
+    background-color: #1a6d70;
+    
+  }
+
+body{
+    background-color: #333;
+    padding: 20px;
+    
+}
+
+#title{
+
+    padding: 20px;
+}
+
+#sub2{
+    padding: 10px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
