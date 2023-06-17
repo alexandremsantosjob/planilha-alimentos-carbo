@@ -37,3 +37,13 @@ body{
     margin: 0 auto;
 }
 
+@media (max-width: 425px)
+{
+    body{
+        text-align: center;
+        width: 150%;
+    }
+
+
+
+}
